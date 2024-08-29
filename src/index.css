@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Tinos';
+    src: url('./fonts/Tinos-Bold.ttf');
+}
+
+@font-face {
+    font-family: 'DMSans';
+    src: url('./fonts/DMSans-Regular.ttf');
+}
